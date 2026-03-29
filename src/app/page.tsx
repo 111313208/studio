@@ -7,7 +7,7 @@ import { NoteCard } from "@/components/notes/note-card";
 import { NoteEditor } from "@/components/notes/note-editor";
 import { useNotes, Note } from "@/hooks/use-notes";
 import { Input } from "@/components/ui/input";
-import { Search, BookOpen, Clock, SortAsc, LayoutGrid, List } from "lucide-react";
+import { Search, BookOpen, Clock, SortAsc, LayoutGrid, Plus } from "lucide-react";
 import { ScrollArea } from "@/components/ui/scroll-area";
 import { Button } from "@/components/ui/button";
 
